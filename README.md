@@ -2,7 +2,7 @@
 
 An Extension to keep Tabs for each Git branch.
 
-**NB : With the resolution of https://github.com/microsoft/vscode/issues/35307 and the [Vscode 1.89 release](https://code.visualstudio.com/updates/v1_89#_saverestore-open-editors-when-switching-branches), vscode now has native support for keeping open editors synced with the current git branch**
+**NB : With the resolution of https://github.com/microsoft/vscode/issues/35307 and the [Vscode 1.89 release](https://code.visualstudio.com/updates/v1_89#_saverestore-open-editors-when-switching-branches), vscode now has native support for keeping open editors synced with the current git branch, with the `scm.workingSets.enabled` (and optionally `scm.workingSets.default`) settings.**
 
 ## See It in Action
 
